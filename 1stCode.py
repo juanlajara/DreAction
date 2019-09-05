@@ -49,4 +49,5 @@ print("Number of people in space:",people_json['number'])
 #To print the names of people in space using a for loop
 for p in people_json['people']:
     print(p['name'])
+    
 #endregion
